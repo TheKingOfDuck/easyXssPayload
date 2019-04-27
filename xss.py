@@ -14,14 +14,14 @@ __author__ = 'CoolCat'
 
 import re
 n = 0
-for xss in open("xss.txt"):
+for xss in open("xssPayload.txt"):
     n += 1
     try:
         alert = re.findall(r"alert\((.+?)\)", xss)
         print(alert[0])
         xss = xss.replace(alert[0],str(n))
         print(xss)
-        f = open("xss2.txt","a")
+        f = open("easyXssPayload.txt","a")
         f.write(xss)
         f.close()
     except:
