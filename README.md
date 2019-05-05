@@ -6,4 +6,4 @@ XssPayload
 
 Payload都在easyXssPayload.txt
 
-#杠精我日你全家
+# 杠精我日你全家
