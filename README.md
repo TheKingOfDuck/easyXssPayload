@@ -2,6 +2,8 @@
 
 XssPayload
 
+用法说明：https://xz.aliyun.com/t/4985
+
 Payload都在easyXssPayload.txt
 
-原稿一般都发在先知社区 等待审核通过咯
+#杠精我日你全家
