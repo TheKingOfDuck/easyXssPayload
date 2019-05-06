@@ -11,6 +11,7 @@
 * 相比fork更建议star，因为这个Payload我每隔一段时间就更新一下，确保其时效性。
 
 核心文件：[easyXssPayload.txt](https://github.com/TheKingOfDuck/easyXssPayload/blob/master/easyXssPayload.txt)
+
 基本用法：https://xz.aliyun.com/t/4985
 
 -------
