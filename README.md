@@ -12,7 +12,7 @@
 
 核心文件：[easyXssPayload.txt](https://github.com/TheKingOfDuck/easyXssPayload/blob/master/easyXssPayload.txt)
 
-基本用法：https://xz.aliyun.com/t/4985
+基本用法：[浅析一种简单暴力的Xss Fuzz手法](https://xz.aliyun.com/t/4985)
 
 -------
 
